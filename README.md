@@ -1,4 +1,4 @@
-# rust_calculator
+# Basic calculator
 
 # 1 is mean to perform addition 
 # 2 is mean to perform Multiplication 
